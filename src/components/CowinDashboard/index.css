@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #161625;
+  background-size: cover;
+  padding: 40px;
+}
+
+.logo {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.logo-img {
+  height: 40px;
+}
+
+.logo-text {
+  color: #2cc6c6;
+  font-size: 22px;
+  padding: 5px;
+}
+
+.heading {
+  color: #cbd5e1;
+  font-size: 28px;
+}
